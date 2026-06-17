@@ -1,15 +1,17 @@
-# Hi there 👋, I'm Your Name
+# Hi there 👋, Syahid Alkaf
 
 <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%">
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building web applications, learning new technologies, and contributing to open-source projects.
+Fullstack Developer focused on building scalable web applications and backend services.
 
-* 🌱 Currently learning **Cloud Computing & AI**
-* 💻 Interested in **Web Development**
-* 🔭 Working on personal and open-source projects
-* 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+* 💻 Building modern web applications with Vue.js, Nuxt.js, and Next.js
+* ⚡ Developing high-performance APIs using Go, Node.js, Laravel, FastAPI, and Django
+* 🗄️ Experienced with MySQL, PostgreSQL, and Redis
+* 🐳 Deploying applications using Docker and Linux environments
+* 🌱 Currently learning Cloud Architecture, Microservices, and AI Engineering
+
 
 ---
 
@@ -17,18 +19,43 @@ I'm a passionate developer who loves building web applications, learning new tec
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge\&logo=nuxt\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Backend
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+
+### Python Backend Frameworks
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### Tools & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### Currently Exploring
+
+* 🚀 Microservices with Go
+* ☁️ Cloud Native Applications
+* 🤖 AI Integration with Python
+* ⚡ High Performance Backend Systems
+
 
 ---
 
