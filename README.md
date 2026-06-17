@@ -1,98 +1,174 @@
-# Hi there 👋, Syahid Alkaf
+<div align="center">
 
-<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%">
+# 👋 Hi, I'm Syahid Alkaf
+
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1600&q=80" width="100%" alt="Developer Banner">
+
+### Full Stack Developer • Backend Engineer • Remote Ready 🌎
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Go+%7C+Node.js+%7C+FastAPI;Vue.js+%7C+Nuxt.js+%7C+Next.js;Open+for+Remote+Opportunities"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-Fullstack Developer focused on building scalable web applications and backend services.
+```yaml
+name: Your Name
+location: Indonesia 🇮🇩
+timezone: GMT+7
+role: Full Stack Developer
+available_for:
+  - Remote Work
+  - Freelance Projects
+  - Open Source Collaboration
 
-* 💻 Building modern web applications with Vue.js, Nuxt.js, and Next.js
-* ⚡ Developing high-performance APIs using Go, Node.js, Laravel, FastAPI, and Django
-* 🗄️ Experienced with MySQL, PostgreSQL, and Redis
-* 🐳 Deploying applications using Docker and Linux environments
-* 🌱 Currently learning Cloud Architecture, Microservices, and AI Engineering
+backend:
+  - Golang
+  - Node.js
+  - Laravel
+  - FastAPI
+  - Django
 
+frontend:
+  - Vue.js
+  - Nuxt.js
+  - Next.js
+
+database:
+  - PostgreSQL
+  - MySQL
+  - Redis
+
+devops:
+  - Docker
+  - Linux
+  - GitHub Actions
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge\&logo=nuxt\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,nextjs,js,ts" />
 
 ### Backend
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-
-### Python Backend Frameworks
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=go,nodejs,laravel,python,fastapi,django" />
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 
-### Tools & DevOps
+### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
 
-### Currently Exploring
-
-* 🚀 Microservices with Go
-* ☁️ Cloud Native Applications
-* 🤖 AI Integration with Python
-* ⚡ High Performance Backend Systems
-
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername\&theme=tokyonight)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## 🏆 GitHub Trophies
 
-| Project       | Description              |
-| ------------- | ------------------------ |
-| Project One   | Awesome web application  |
-| Project Two   | API service project      |
-| Project Three | Open-source contribution |
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=7"/>
 
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram)](https://instagram.com/yourprofile)
+</div>
 
 ---
 
-### 💡 Quote of the Day
+## 📊 Contribution Graph
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project             | Stack                  | Description                   |
+| ------------------- | ---------------------- | ----------------------------- |
+| SaaS Platform       | Go, PostgreSQL, Docker | Multi-tenant SaaS application |
+| ERP Dashboard       | Laravel, Vue.js        | Enterprise management system  |
+| API Gateway         | FastAPI, Redis         | High-performance API service  |
+| E-Commerce Platform | Next.js, Go            | Full stack online marketplace |
+
+---
+
+## 🌎 Looking For
+
+* Remote Full Stack Roles
+* Remote Backend Engineer Roles
+* International Freelance Projects
+* Open Source Collaboration
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Build software that solves real problems."
+
+</div>
