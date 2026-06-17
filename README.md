@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rifky</h1>
 
-<!--
-**Azzalkaff/Azzalkaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Web Developer Enthusiast | Student | Open Source Learner
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Sedang belajar React dan Node.js
+- 💻 Suka membuat project web
+- 📚 Tertarik dengan AI dan Backend Development
+
+## 🛠️ Skills
+
+HTML • CSS • JavaScript • Python • Git
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true)
+
+## 📫 Connect With Me
+
+- LinkedIn: ...
+- Instagram: ...
